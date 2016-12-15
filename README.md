@@ -6,4 +6,4 @@ Jogo desenvolvido na disciplina Paradigmas de Progrmação (DCA0201) que usa ele
 ### Como executar
 Baixe o arquivo compilado "Jogo.jar" e entre com os seguintes comandos no prompt do Windows:
 
-java -jar Jogo.jar
+    java -jar Jogo.jar
