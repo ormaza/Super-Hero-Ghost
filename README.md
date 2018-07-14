@@ -14,3 +14,4 @@ Atores são os componentes do jogo que executam alguma ação. Nesse jogo, as a�
 
 <p align="center"><img src="https://github.com/ormaza/ormaza.github.io/blob/master/Super%20Hero%20Ghost/atores.png"></p>
 
+Para movimentar os atores foi utilizada uma thread, numa taxa de atualizaçao de 30 vezes por segundo. A cada atualização, o jogo é redesenhado e os atores assumem novas posições, calculadas pelo método velocidade(). Essa rotina dá a sensação de fluidez dos atores no cenário. Ao morrer, o player insere seu nome e sua pontuação numa lista ordenada de recordes. Essa lista é reordenada a cada fim de jogo usando o algoritmo Insertion sort. Na versão 
