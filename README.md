@@ -1,4 +1,6 @@
-# Super-Hero-Ghost
+# Super Hero Ghost
+
+### Descrição
 Jogo desenvolvido na disciplina Paradigmas de Programação (DCA0201) que usa elementos java swing e threads na sua execução.
 
 ### Como executar
