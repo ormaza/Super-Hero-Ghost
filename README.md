@@ -10,6 +10,7 @@ Super Hero Ghost é um mini game desenvolvido em Java utilizando elementos da AP
 -Executar <a href="https://github.com/ormaza/Super-Hero-Ghost/blob/master/binary/Super%20Hero%20Ghost.exe">Super Hero Ghost</a>
 
 ### Documentação
+Atores são os componentes do jogo que executam alguma ação. Nesse jogo, as ações seriam a colisão entre o player e a maçã, resultado em aumento da pontuação, e entre o player e a mina, resultando em fim de jogo. Por serem objetos de ação, todos os atores são do tipo JButton. A colisão é detectada quando, basicamente, os dois atores estiverem ocupando as mesmas posições.
 
 <p align="center"><img src="https://github.com/ormaza/ormaza.github.io/blob/master/Super%20Hero%20Ghost/atores.png"></p>
 
