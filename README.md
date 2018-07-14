@@ -6,8 +6,8 @@ Super Hero Ghost é um mini game desenvolvido em Java utilizando elementos da AP
 ![screenshot](https://github.com/ormaza/ormaza.github.io/blob/master/Super%20Hero%20Ghost/screenshot.png)
 
 ### Como executar
--Instalar o Java
--Executar <a href:"https://github.com/ormaza/Super-Hero-Ghost/blob/master/binary/Super%20Hero%20Ghost.exe">Super Hero Ghost</a>
+-Instalar o Java <br>
+-Executar <a href="https://github.com/ormaza/Super-Hero-Ghost/blob/master/binary/Super%20Hero%20Ghost.exe">Super Hero Ghost</a>
 
 ### Atores
 
